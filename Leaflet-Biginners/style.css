@@ -2,5 +2,17 @@ html, body, #map {
     height: 100%; 
     width: 100%;
     margin: 0px;
-    padding: 0px;  
+    padding: 0px;
+    font-size: 5px;
+}
+/* .leaflet-control {
+    font-size: 1em;
+} */
+
+.leaflet-control-zoom {
+    transform: scale(0.5);
+}
+
+.leaflet-control-layers {
+    transform: scale(0.7);
 }
