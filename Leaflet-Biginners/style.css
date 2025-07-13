@@ -10,9 +10,9 @@ html, body, #map {
 } */
 
 .leaflet-control-zoom {
-    transform: scale(0.5);
+    transform: scale(0.4);
 }
 
 .leaflet-control-layers {
-    transform: scale(0.7);
+    transform: scale(0.8);
 }
